@@ -13,4 +13,17 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+
+// Angular JS
+//= require angular
+//= require angular-bootstrap
+//= require angular-resource
+//= require angular/angular-ui-states
+
+// Angular JS app
+//= require angular/main
+//= require_tree ./angular/controllers
+//= require_tree ./angular/resources
+//= require_tree ./support
+
 //= require_tree .
