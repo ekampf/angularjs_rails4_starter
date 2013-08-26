@@ -29,7 +29,7 @@ end
 
 group :development, :test do
   gem 'rspec-rails', '~> 2.0'
-  gem 'jasmine-rails'
+  gem 'teaspoon'
 end
 
 group :test do

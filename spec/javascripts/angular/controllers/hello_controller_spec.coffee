@@ -1,5 +1,3 @@
-#= require support/spec_helper
-
 describe 'Controller: HelloCtrl', () ->
   
   beforeEach ->
